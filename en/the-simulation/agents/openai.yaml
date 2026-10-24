@@ -1,0 +1,4 @@
+interface:
+  display_name: "THE SIMULATION — Role-Play Simulation (RPS)"
+  short_description: "An open-ended, impartial life simulation"
+  default_prompt: "Use $the-simulation to start THE SIMULATION using its rules."

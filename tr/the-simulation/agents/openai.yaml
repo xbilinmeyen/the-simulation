@@ -1,0 +1,4 @@
+interface:
+  display_name: "THE SIMULATION — Role-Play Simulation (RPS)"
+  short_description: "THE SIMULATION — Role-Play Simulation (RPS)"
+  default_prompt: "$the-simulation ile bu dosyadaki kurallarla THE SIMULATION’ı başlat."
